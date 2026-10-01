@@ -1,0 +1,332 @@
+{
+  "teams": [
+    {
+      "id": "team-01",
+      "code": "TEAM01",
+      "display_name": "Squad 01",
+      "case_id": "CASE-01",
+      "created_at": "2026-10-01T06:32:20.130Z"
+    },
+    {
+      "id": "team-02",
+      "code": "TEAM02",
+      "display_name": "Squad 02",
+      "case_id": "CASE-02",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-03",
+      "code": "TEAM03",
+      "display_name": "Squad 03",
+      "case_id": "CASE-03",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-04",
+      "code": "TEAM04",
+      "display_name": "Squad 04",
+      "case_id": "CASE-04",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-05",
+      "code": "TEAM05",
+      "display_name": "Squad 05",
+      "case_id": "CASE-01",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-06",
+      "code": "TEAM06",
+      "display_name": "Squad 06",
+      "case_id": "CASE-02",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-07",
+      "code": "TEAM07",
+      "display_name": "Squad 07",
+      "case_id": "CASE-03",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-08",
+      "code": "TEAM08",
+      "display_name": "Squad 08",
+      "case_id": "CASE-04",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-09",
+      "code": "TEAM09",
+      "display_name": "Squad 09",
+      "case_id": "CASE-01",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-10",
+      "code": "TEAM10",
+      "display_name": "Squad 10",
+      "case_id": "CASE-02",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-11",
+      "code": "TEAM11",
+      "display_name": "Squad 11",
+      "case_id": "CASE-03",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-12",
+      "code": "TEAM12",
+      "display_name": "Squad 12",
+      "case_id": "CASE-04",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-13",
+      "code": "TEAM13",
+      "display_name": "Squad 13",
+      "case_id": "CASE-01",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-14",
+      "code": "TEAM14",
+      "display_name": "Squad 14",
+      "case_id": "CASE-02",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-15",
+      "code": "TEAM15",
+      "display_name": "Squad 15",
+      "case_id": "CASE-03",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-16",
+      "code": "TEAM16",
+      "display_name": "Squad 16",
+      "case_id": "CASE-04",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-17",
+      "code": "TEAM17",
+      "display_name": "Squad 17",
+      "case_id": "CASE-01",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-18",
+      "code": "TEAM18",
+      "display_name": "Squad 18",
+      "case_id": "CASE-02",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-19",
+      "code": "TEAM19",
+      "display_name": "Squad 19",
+      "case_id": "CASE-03",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    },
+    {
+      "id": "team-20",
+      "code": "TEAM20",
+      "display_name": "Squad 20",
+      "case_id": "CASE-04",
+      "created_at": "2026-10-01T06:32:20.132Z"
+    }
+  ],
+  "investigations": {
+    "team-01_CASE-01": {
+      "id": "inv-team-01-live",
+      "team_id": "team-01",
+      "case_id": "CASE-01",
+      "status": "submitted",
+      "started_at": "2026-10-01T06:50:00.000Z",
+      "submitted_at": "2026-10-01T07:14:53.510Z",
+      "time_taken_s": 1494,
+      "hints_used": [],
+      "evidence_inspected": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E07",
+        "E08"
+      ],
+      "created_at": "2026-10-01T06:50:00.000Z"
+    },
+    "inv-team-01-live": {
+      "id": "inv-team-01-live",
+      "team_id": "team-01",
+      "case_id": "CASE-01",
+      "status": "in_progress",
+      "started_at": "2026-10-01T06:50:00.000Z",
+      "submitted_at": null,
+      "time_taken_s": null,
+      "hints_used": [],
+      "evidence_inspected": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E07",
+        "E08"
+      ],
+      "created_at": "2026-10-01T06:50:00.000Z"
+    },
+    "team-02_CASE-02": {
+      "id": "inv-1790839493560-34v7",
+      "team_id": "team-02",
+      "case_id": "CASE-02",
+      "status": "in_progress",
+      "started_at": "2026-10-01T07:24:53.561Z",
+      "submitted_at": null,
+      "time_taken_s": null,
+      "hints_used": [],
+      "evidence_inspected": [
+        "E08",
+        "E03",
+        "E04",
+        "E01",
+        "E05",
+        "E06",
+        "E02",
+        "E07"
+      ],
+      "created_at": "2026-10-01T07:24:53.561Z"
+    },
+    "inv-1790839493560-34v7": {
+      "id": "inv-1790839493560-34v7",
+      "team_id": "team-02",
+      "case_id": "CASE-02",
+      "status": "in_progress",
+      "started_at": "2026-10-01T07:24:53.561Z",
+      "submitted_at": null,
+      "time_taken_s": null,
+      "hints_used": [],
+      "evidence_inspected": [
+        "E08",
+        "E03",
+        "E04",
+        "E01",
+        "E05",
+        "E06",
+        "E02",
+        "E07"
+      ],
+      "created_at": "2026-10-01T07:24:53.561Z"
+    }
+  },
+  "answers": {
+    "inv-1790837055554-ziwm": {
+      "q-CASE-01-1": "Murder staged as an accident/burglary"
+    },
+    "inv-1790839493560-34v7": {
+      "q-CASE-02-7": "He works as a department clerk",
+      "q-CASE-02-6": "Gopal Bhatia",
+      "q-CASE-02-5": "na",
+      "q-CASE-02-4": "ma"
+    }
+  },
+  "reconstructions": {
+    "inv-1790837055554-ziwm": {
+      "id": "recon-inv-1790837055554-ziwm",
+      "investigation_id": "inv-1790837055554-ziwm",
+      "culprit": "Sarah Menon",
+      "what_happened": "She used the spare key, killed Vikram using the brass owl paperweight, staged the scene to make it look like a break-in from the window, and locked the room from outside.",
+      "motive": "Vikram discovered she was moving company money into her own account and intended to end their partnership and expose the issue.",
+      "evidence_used": "Two coffee cups, brass owl paperweight with blood, open window with undisturbed flower bed, and key on the desk.",
+      "full_sequence": "Sarah entered at 10:12 PM, argued with Vikram, struck him with the paperweight, staged the window, locked the door with the spare key, and left at 11:02 PM.",
+      "submitted_at": "2026-10-01T06:45:52.525Z"
+    },
+    "inv-team-01-live": {
+      "id": "recon-inv-team-01-live",
+      "investigation_id": "inv-team-01-live",
+      "culprit": "Sarah Menon",
+      "what_happened": "Staged murder using paperweight and locked from outside with spare key",
+      "motive": "Embezzlement of publishing funds",
+      "evidence_used": "Blood on brass owl paperweight, spare key missing, undisturbed flower bed",
+      "full_sequence": "Arrived 10:12 PM, struck victim, staged window, locked door, left 11:02 PM",
+      "submitted_at": "2026-10-01T07:14:53.505Z"
+    }
+  },
+  "scores": {
+    "inv-1790837055554-ziwm": {
+      "id": "score-inv-1790837055554-ziwm",
+      "investigation_id": "inv-1790837055554-ziwm",
+      "auto_score": 0,
+      "question_breakdown": {
+        "q-CASE-01-1": 0,
+        "q-CASE-01-2": 0,
+        "q-CASE-01-3": 0,
+        "q-CASE-01-4": 0,
+        "q-CASE-01-5": 0,
+        "q-CASE-01-6": 0,
+        "q-CASE-01-7": 0,
+        "q-CASE-01-8": 0
+      },
+      "recon_score": 40,
+      "recon_breakdown": {
+        "Correct culprit identified": 10,
+        "Motive explained": 8,
+        "Staged scene identified": 8,
+        "Timeline reconstructed accurately": 7,
+        "Evidence cited to support conclusion": 7
+      },
+      "time_bonus": 5,
+      "hint_penalty": 0,
+      "final_score": 45,
+      "judge_override": null,
+      "judge_notes": "Auto-graded: 0/55. Reconstruction (concept_match): 40/40. Time bonus: +5. Penalty: -0.",
+      "graded_by": "system",
+      "graded_at": "2026-10-01T06:45:52.554Z",
+      "published": false,
+      "created_at": "2026-10-01T06:45:52.554Z"
+    },
+    "inv-team-01-live": {
+      "id": "score-inv-team-01-live",
+      "investigation_id": "inv-team-01-live",
+      "auto_score": 0,
+      "question_breakdown": {
+        "q-CASE-01-1": 0,
+        "q-CASE-01-2": 0,
+        "q-CASE-01-3": 0,
+        "q-CASE-01-4": 0,
+        "q-CASE-01-5": 0,
+        "q-CASE-01-6": 0,
+        "q-CASE-01-7": 0,
+        "q-CASE-01-8": 0
+      },
+      "recon_score": 40,
+      "recon_breakdown": {
+        "Correct culprit identified": 10,
+        "Motive explained": 8,
+        "Staged scene identified": 8,
+        "Timeline reconstructed accurately": 7,
+        "Evidence cited to support conclusion": 7
+      },
+      "time_bonus": 5,
+      "hint_penalty": 0,
+      "final_score": 45,
+      "judge_override": null,
+      "judge_notes": "Auto-graded: 0/55. Reconstruction (concept_match): 40/40. Time bonus: +5. Penalty: -0.",
+      "graded_by": "system",
+      "graded_at": "2026-10-01T07:14:53.508Z",
+      "published": false,
+      "created_at": "2026-10-01T07:14:53.508Z"
+    }
+  },
+  "customHotspots": {},
+  "customBriefings": {},
+  "published": false
+}
